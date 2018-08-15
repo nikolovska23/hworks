@@ -1,0 +1,6 @@
+C:\Users\Marija\Desktop\C#_HW\HW_01\Task_02\Task_02\bin\Debug\Task_02.exe.config
+C:\Users\Marija\Desktop\C#_HW\HW_01\Task_02\Task_02\bin\Debug\Task_02.exe
+C:\Users\Marija\Desktop\C#_HW\HW_01\Task_02\Task_02\bin\Debug\Task_02.pdb
+C:\Users\Marija\Desktop\C#_HW\HW_01\Task_02\Task_02\obj\Debug\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\C#_HW\HW_01\Task_02\Task_02\obj\Debug\Task_02.exe
+C:\Users\Marija\Desktop\C#_HW\HW_01\Task_02\Task_02\obj\Debug\Task_02.pdb

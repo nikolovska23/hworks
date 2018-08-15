@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\bin\Debug\DateTimeEx.exe.config
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\bin\Debug\DateTimeEx.exe
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\bin\Debug\DateTimeEx.pdb
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\obj\Debug\DateTimeEx.csprojResolveAssemblyReference.cache
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\obj\Debug\DateTimeEx.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\obj\Debug\DateTimeEx.exe
+C:\Users\Marija\Desktop\C#_HW\HW_03\DateTimeEx\DateTimeEx\obj\Debug\DateTimeEx.pdb

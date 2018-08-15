@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\bin\Debug\ClassEx.exe.config
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\bin\Debug\ClassEx.exe
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\bin\Debug\ClassEx.pdb
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\obj\Debug\ClassEx.csprojResolveAssemblyReference.cache
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\obj\Debug\ClassEx.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\obj\Debug\ClassEx.exe
+C:\Users\Marija\Desktop\C#_HW\HW_05\ClassEx\ClassEx\obj\Debug\ClassEx.pdb

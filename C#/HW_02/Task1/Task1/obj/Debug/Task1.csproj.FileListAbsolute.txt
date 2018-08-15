@@ -1,0 +1,7 @@
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Marija\Desktop\C#_HW\HW_02\Task1\Task1\obj\Debug\Task1.pdb

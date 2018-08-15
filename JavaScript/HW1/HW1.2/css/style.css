@@ -1,0 +1,22 @@
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+#TRateinfo {
+    color: #aaa;
+}
+form * {
+    margin: 3px 0;
+}
+#btn1 {
+    margin-left: 230px;
+}
+
+#result {
+    display: none;
+    font-size: 1.1em;
+}
+#calculatedPrice {
+    font-weight: bolder;
+}
